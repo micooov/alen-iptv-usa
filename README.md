@@ -979,3 +979,134 @@ https://thegateway.app/YouToo/CueTones/playlist.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/c3Z5i2L.png" tvg-country="US" tvg-url="" group-title="",Z Living
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="10179" tvg-name="ESPN US HD" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/549.png" group-title="Sports",ESPN US HD
+http://s1.iptv66.tv/live/7804192402102/7804192402102/129.m3u8
+#EXTINF:-1 tvg-id="45654" tvg-name="ESPNU HD" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/567.png" group-title="Sports",ESPNU HD
+http://s1.iptv66.tv/live/7804192402102/7804192402102/138.m3u8
+#EXTINF:-1 tvg-id="16485" tvg-name="ESPNews US HD" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/1213.png" group-title="Sports",ESPNews US HD
+http://s1.iptv66.tv/live/7804192402102/7804192402102/239.m3u8
+#EXTINF:-1 tvg-id="12444" tvg-name="ESPN 2 US HD" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/1215.png" group-title="Sports",ESPN 2 US HD
+http://s1.iptv66.tv/live/7804192402102/7804192402102/240.m3u8
+#EXTINF:-1 tvg-id="20643" tvg-name="SKY Sports News" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/54.png" group-title="Sports",SKY Sports News
+http://s1.iptv66.tv/live/7804192402102/7804192402102/31.m3u8
+#EXTINF:-1 tvg-id="11182" tvg-name="TSN 1" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/3297.png" group-title="Sports",TSN 1
+http://s1.iptv66.tv/live/7804192402102/7804192402102/375.m3u8
+#EXTINF:-1 tvg-id="18990" tvg-name="TSN 2" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/3302.png" group-title="Sports",TSN 2
+http://s1.iptv66.tv/live/7804192402102/7804192402102/376.m3u8
+#EXTINF:-1 tvg-id="90118" tvg-name="TSN 3" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/3307.png" group-title="Sports",TSN 3
+http://s1.iptv66.tv/live/7804192402102/7804192402102/377.m3u8
+#EXTINF:-1 tvg-id="90122" tvg-name="TSN 4" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/3312.png" group-title="Sports",TSN 4
+http://s1.iptv66.tv/live/7804192402102/7804192402102/378.m3u8
+#EXTINF:-1 tvg-id="90124" tvg-name="TSN 5" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/3317.png" group-title="Sports",TSN 5
+http://s1.iptv66.tv/live/7804192402102/7804192402102/379.m3u8
+#EXTINF:-1 tvg-id="82547" tvg-name="Fox Sports 1 US HD" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/46.png" group-title="Sports",Fox Sports 1 US HD
+http://s1.iptv66.tv/live/7804192402102/7804192402102/28.m3u8
+#EXTINF:-1 tvg-id="33178" tvg-name="Fox Sports 2 US HD" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/673.png" group-title="Sports",Fox Sports 2 US HD
+http://s1.iptv66.tv/live/7804192402102/7804192402102/168.m3u8
+#EXTINF:-1 tvg-id="62081" tvg-name="MLB Network HD" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/40.png" group-title="Sports",MLB Network HD
+http://s1.iptv66.tv/live/7804192402102/7804192402102/22.m3u8
+#EXTINF:-1 tvg-id="34710" tvg-name="NFL Network HD" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/591.png" group-title="Sports",NFL Network HD
+http://s1.iptv66.tv/live/7804192402102/7804192402102/149.m3u8
+#EXTINF:-1 tvg-id="83162" tvg-name="UFC Network HD" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/3257.png" group-title="Sports",UFC Network HD
+http://s1.iptv66.tv/live/7804192402102/7804192402102/367.m3u8
+#EXTINF:-1 tvg-id="32281" tvg-name="NBA TV HD" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/1207.png" group-title="Sports",NBA TV HD
+http://s1.iptv66.tv/live/7804192402102/7804192402102/236.m3u8
+#EXTINF:-1 tvg-id="58690" tvg-name="NHL Network USA HD" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/41.png" group-title="Sports",NHL Network USA HD
+http://s1.iptv66.tv/live/7804192402102/7804192402102/23.m3u8
+#EXTINF:-1 tvg-id="16365" tvg-name="CBS Sports Network HD" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/1219.png" group-title="Sports",CBS Sports Network HD
+http://s1.iptv66.tv/live/7804192402102/7804192402102/242.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBC Sport Network HD" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/2502.png" group-title="Sports",NBC Sport Network HD
+http://s1.iptv66.tv/live/7804192402102/7804192402102/335.m3u8
+#EXTINF:-1 tvg-id="91306" tvg-name="WWE Network" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/3530.png" group-title="Sports",WWE Network
+http://s1.iptv66.tv/live/7804192402102/7804192402102/395.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAV tv" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/3242.png" group-title="Sports",MAV tv
+http://s1.iptv66.tv/live/7804192402102/7804192402102/366.m3u8
+#EXTINF:-1 tvg-id="NULL" tvg-name="PAC 12 Networks" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/3833.png" group-title="Sports",PAC 12 Networks
+http://p12n-lh.akamaihd.net/i/network_delivery@428818/master.m3u8
+#EXTINF:-1 tvg-id="NULL" tvg-name="PAC 12 Arizona" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/3834.png" group-title="Sports",PAC 12 Arizona
+http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
+#EXTINF:-1 tvg-id="NULL" tvg-name="PAC 12 Bay Area" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/3835.png" group-title="Sports",PAC 12 Bay Area
+http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
+#EXTINF:-1 tvg-id="NULL" tvg-name="PAC 12 Los Angeles" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/3836.png" group-title="Sports",PAC 12 Los Angeles
+http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
+#EXTINF:-1 tvg-id="NULL" tvg-name="PAC 12 Mountain" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/3837.png" group-title="Sports",PAC 12 Mountain
+http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
+#EXTINF:-1 tvg-id="NULL" tvg-name="PAC 12 Oregon" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/3838.png" group-title="Sports",PAC 12 Oregon
+http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
+#EXTINF:-1 tvg-id="NULL" tvg-name="PAC 12 Washington" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/3839.png" group-title="Sports",PAC 12 Washington
+http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
+#EXTINF:-1 tvg-id="14776" tvg-name="Outdoor Channel" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/3649.png" group-title="Sports",Outdoor Channel
+http://s1.iptv66.tv/live/7804192402102/7804192402102/401.m3u8
+#EXTINF:-1 tvg-id="33395" tvg-name="Tennis Channel HD" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/1830.png" group-title="Sports",Tennis Channel HD
+http://s1.iptv66.tv/live/7804192402102/7804192402102/310.m3u8
+#EXTINF:-1 tvg-id="14899" tvg-name="Golf Channel HD" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/1205.png" group-title="Sports",Golf Channel HD
+http://s1.iptv66.tv/live/7804192402102/7804192402102/235.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Setanta Sports" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/265.png" group-title="Sports",Setanta Sports
+http://185.93.0.151:1935/live/setanta.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="30505" tvg-name="At The Races" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/267.png" group-title="Sports",At The Races
+http://s1.iptv66.tv/live/7804192402102/7804192402102/117.m3u8
+#EXTINF:-1 tvg-id="24226" tvg-name="Racing UK" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/1285.png" group-title="Sports",Racing UK
+http://s1.iptv66.tv/live/7804192402102/7804192402102/258.m3u8
+#EXTINF:-1 tvg-id="18337" tvg-name="Eurosport 1" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/1347.png" group-title="Sports",Eurosport 1
+http://s1.iptv66.tv/live/7804192402102/7804192402102/264.m3u8
+#EXTINF:-1 tvg-id="27413" tvg-name="Eurosport 2" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/1349.png" group-title="Sports",Eurosport 2
+http://s1.iptv66.tv/live/7804192402102/7804192402102/265.m3u8
+#EXTINF:-1 tvg-id="21813" tvg-name="MUTV" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/269.png" group-title="Sports",MUTV
+http://s1.iptv66.tv/live/7804192402102/7804192402102/118.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MSG HD" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/1211.png" group-title="Sports",MSG HD
+http://s1.iptv66.tv/live/7804192402102/7804192402102/238.m3u8
+#EXTINF:-1 tvg-id="73823" tvg-name="BOXnation" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/781.png" group-title="Sports",BOXnation
+http://s1.iptv66.tv/live/7804192402102/7804192402102/174.m3u8
+#EXTINF:-1 tvg-id="17744" tvg-name="SKY Sports 1" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/1269.png" group-title="Sports",SKY Sports 1
+http://s1.iptv66.tv/live/7804192402102/7804192402102/250.m3u8
+#EXTINF:-1 tvg-id="19036" tvg-name="SKY Sports 2" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/1271.png" group-title="Sports",SKY Sports 2
+http://s1.iptv66.tv/live/7804192402102/7804192402102/251.m3u8
+#EXTINF:-1 tvg-id="19038" tvg-name="SKY Sports 3" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/1273.png" group-title="Sports",SKY Sports 3
+http://s1.iptv66.tv/live/7804192402102/7804192402102/252.m3u8
+#EXTINF:-1 tvg-id="24216" tvg-name="SKY Sports 4" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/1275.png" group-title="Sports",SKY Sports 4
+http://s1.iptv66.tv/live/7804192402102/7804192402102/253.m3u8
+#EXTINF:-1 tvg-id="89362" tvg-name="SKY Sports 5" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/1277.png" group-title="Sports",SKY Sports 5
+http://s1.iptv66.tv/live/7804192402102/7804192402102/254.m3u8
+#EXTINF:-1 tvg-id="74410" tvg-name="SKY Sports F1" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/1267.png" group-title="Sports",SKY Sports F1
+http://s1.iptv66.tv/live/7804192402102/7804192402102/249.m3u8
+#EXTINF:-1 tvg-id="82447" tvg-name="BT Sport 1" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/1287.png" group-title="Sports",BT Sport 1
+http://s1.iptv66.tv/live/7804192402102/7804192402102/259.m3u8
+#EXTINF:-1 tvg-id="82449" tvg-name="BT Sport 2" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/1289.png" group-title="Sports",BT Sport 2
+http://s1.iptv66.tv/live/7804192402102/7804192402102/260.m3u8
+#EXTINF:-1 tvg-id="95771" tvg-name="BT Sport 3" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/3674.png" group-title="Sports",BT Sport 3
+http://s1.iptv66.tv/live/7804192402102/7804192402102/404.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SuperSport 1" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/1279.png" group-title="Sports",ASTRO SuperSport 1
+http://s1.iptv66.tv/live/7804192402102/7804192402102/255.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SuperSport 2" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/1281.png" group-title="Sports",ASTRO SuperSport 2
+http://s1.iptv66.tv/live/7804192402102/7804192402102/256.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SuperSport 3" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/1283.png" group-title="Sports",ASTRO SuperSport 3
+http://s1.iptv66.tv/live/7804192402102/7804192402102/257.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SuperSport 4" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/3764.png" group-title="Sports",ASTRO SuperSport 4
+http://s1.iptv66.tv/live/7804192402102/7804192402102/445.m3u8
+#EXTINF:-1 tvg-id="11141" tvg-name="Fox Sports Florida" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/3650.png" group-title="Sports",Fox Sports Florida
+http://s1.iptv66.tv/live/7804192402102/7804192402102/402.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Yes Network HD" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/1812.png" group-title="Sports",Yes Network HD
+http://s1.iptv66.tv/live/7804192402102/7804192402102/307.m3u8
+#EXTINF:-1 tvg-id="11054" tvg-name="FOX Sports West HD" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/3403.png" group-title="Sports",FOX Sports West HD
+http://s1.iptv66.tv/live/7804192402102/7804192402102/386.m3u8
+#EXTINF:-1 tvg-id="11109" tvg-name="Comcast Sports Net Bay Area HD" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/3383.png" group-title="Sports",Comcast Sports Net Bay Area HD
+http://s1.iptv66.tv/live/7804192402102/7804192402102/384.m3u8
+#EXTINF:-1 tvg-id="61092" tvg-name="Fox Sports South HD" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/3353.png" group-title="Sports",Fox Sports South HD
+http://s1.iptv66.tv/live/7804192402102/7804192402102/383.m3u8
+#EXTINF:-1 tvg-id="55433" tvg-name="MASN HD" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/3393.png" group-title="Sports",MASN HD
+http://s1.iptv66.tv/live/7804192402102/7804192402102/385.m3u8
+#EXTINF:-1 tvg-id="10996" tvg-name="New England Sports Network HD" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/3433.png" group-title="Sports",New England Sports Network HD
+http://s1.iptv66.tv/live/7804192402102/7804192402102/388.m3u8
+#EXTINF:-1 tvg-id="20789" tvg-name="Fox Sports Southwest HD" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/2722.png" group-title="Sports",Fox Sports Southwest HD
+http://s1.iptv66.tv/live/7804192402102/7804192402102/351.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SportsNet New York" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/3413.png" group-title="Sports",SportsNet New York
+http://s1.iptv66.tv/live/7804192402102/7804192402102/387.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sportsnet Dodgers" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/3503.png" group-title="Sports",Sportsnet Dodgers
+http://s1.iptv66.tv/live/7804192402102/7804192402102/389.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sportsnet Lakers" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/3531.png" group-title="Sports",Sportsnet Lakers
+http://s1.iptv66.tv/live/7804192402102/7804192402102/396.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ultimate Events & Sports" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/1197.png" group-title="Sports",Ultimate Events & Sports
+http://s1.iptv66.tv/live/7804192402102/7804192402102/231.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ultimate Events & Sports 2" tvg-logo="http://static-content.iptv66.tv:88/stalker_portal/misc/logos/240/1451.png" group-title="Sports",Ultimate Events & Sports 2
+http://s1.iptv66.tv/live/7804192402102/7804192402102/288.m3u8
